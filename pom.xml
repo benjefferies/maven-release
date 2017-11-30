@@ -16,7 +16,7 @@
     <repository>
        <id>bintray-benjefferies-echosoft</id>
        <name>bintray-benjefferies-echosoft</name>
-       <url>https://dl.bintray.com/benjefferies/echosoft/myapp/;publish=1</url>
+       <url>https://dl.bintray.com/benjefferies/echosoft/;publish=1</url>
     </repository>
  </distributionManagement>
 <dependencies>
