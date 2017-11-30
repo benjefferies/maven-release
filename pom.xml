@@ -18,10 +18,6 @@
        <name>bintray-benjefferies-echosoft</name>
        <url>https://dl.bintray.com/benjefferies/echosoft/myapp/;publish=1</url>
     </repository>
-    <snapshotRepository>
-        <id>bintray-benjefferies-echosoft-snapshot</id>
-        <url>https://dl.bintray.com/benjefferies/echosoft-snapshot</url>
-    </snapshotRepository>
  </distributionManagement>
 <dependencies>
     <dependency>
